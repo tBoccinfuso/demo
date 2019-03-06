@@ -1,11 +1,36 @@
 {
+  "client": {
+      "name": "Test-Client-#1",
+      "id": 1,
+      "email": "hi@tc1.com"
+    },
   "properties": [
     {
-      "id": 1,
-      "permalink": "highrise"
-    }
+       "id": 1234,
+       "permalink": "highrise",
+       "name": "Highrise",
+       "min_rate": 1300,
+       "suite_count": 2,
+       "status": 1
+    },
+    {
+       "id": 1337,
+       "permalink": "duplex-2",
+       "name": "Duplex 2",
+       "min_rate": 900,
+       "suite_count": 1,
+       "status": 0
+    },
+    {
+       "id": 99,
+       "permalink": "redview-towers",
+       "name": "Redview Towers",
+       "min_rate": 1250,
+       "suite_count": 3,
+       "status": 1
+    },
   ],
-  "profile": {
+  "app": {
     "name": "lws-vue"
   }
 }
