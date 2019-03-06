@@ -3,7 +3,7 @@
       "name": "Test-Client-#1",
       "id": 1,
       "email": "hi@tc1.com"
-    },
+  },
   "properties": [
     {
        "id": 1234,
@@ -28,7 +28,7 @@
        "min_rate": 1250,
        "suite_count": 3,
        "status": 1
-    },
+    }
   ],
   "app": {
     "name": "lws-vue"
