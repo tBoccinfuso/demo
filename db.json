@@ -11,7 +11,21 @@
        "name": "Highrise",
        "min_rate": 1300,
        "suite_count": 2,
-       "status": 1
+       "status": 1,
+       "suites": [
+        {
+         "type_name": "1 Bedroom",
+         "rate": 1300,
+         "bed": 1,
+         "bath": 1
+        },
+        {
+         "type_name": "2 Bedroom",
+         "rate": 1700,
+         "bed": 3,
+         "bath": 2
+        }
+       ]
     },
     {
        "id": 1337,
@@ -19,15 +33,41 @@
        "name": "Duplex 2",
        "min_rate": 900,
        "suite_count": 1,
-       "status": 0
+       "status": 0,
+       "suites": [
+         "type_name": "1 Bedroom",
+         "rate": 900,
+         "bed": 1,
+         "bath": 1
+       ]
     },
     {
        "id": 99,
        "permalink": "redview-towers",
        "name": "Redview Towers",
-       "min_rate": 1250,
+       "min_rate": 800,
        "suite_count": 3,
        "status": 1
+       "suites": [
+        {
+         "type_name": "1 Bedroom",
+         "rate": 800,
+         "bed": 1,
+         "bath": 1
+        },
+        {
+         "type_name": "3 Bedroom",
+         "rate": 1250,
+         "bed": 3,
+         "bath": 2
+        },
+        {
+         "type_name": "3 Bedroom",
+         "rate": 1700,
+         "bed": 3,
+         "bath": 2
+        }
+       ]
     }
   ],
   "app": {
