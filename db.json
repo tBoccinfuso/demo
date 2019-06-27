@@ -1,4 +1,8 @@
 {
+  "routes":[
+    "/",
+    "/about"
+  ],
 	"client": {
 		"name": "Test-Client-#1",
 		"id": 1,
