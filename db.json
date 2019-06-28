@@ -43,6 +43,20 @@
 				"bath": 1
 			}]
 		},
+		       		{
+			"id": 4200,
+			"permalink": "beachhouse",
+			"name": "Beach House",
+			"min_rate": 2200,
+			"suite_count": 1,
+			"status": 1,
+			"suites": [{
+				"type_name": "4 Bedroom",
+				"rate": 2200,
+				"bed": 4,
+				"bath": 5
+			}]
+		},
 		{
 			"id": 99,
 			"permalink": "redview-towers",
