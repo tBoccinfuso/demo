@@ -4,8 +4,8 @@
     "/about"
   ],
 	"client": {
-		"name": "Test-Client-#1",
 		"id": 1,
+		"name": "Test-Client-#1",		
 		"email": "hi@tc1.com"
 	},
 	"properties": [{
