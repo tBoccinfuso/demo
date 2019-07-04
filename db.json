@@ -1,7 +1,13 @@
 {
   "routes":[
-    "/",
-    "/about"
+    "home": {
+	  "permalink": "/",
+	  "pageType": "home"
+    },
+    "about": {
+	  "permalink": "/about",
+	  "pageType": "about"
+    }
   ],
 	"client": {
 		"id": 1,
