@@ -1,5 +1,5 @@
 {
-  "routes":[
+  "routes":{
     "home": {
 	  "permalink": "/",
 	  "pageType": "home"
@@ -8,7 +8,7 @@
 	  "permalink": "/about",
 	  "pageType": "about"
     }
-  ],
+  },
 	"client": {
 		"id": 1,
 		"name": "Test-Client-#1",		
